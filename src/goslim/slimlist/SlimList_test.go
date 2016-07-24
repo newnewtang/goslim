@@ -132,7 +132,7 @@ func Test_SlimList_canGetTail(t *testing.T) {
 
 	tail := slimList.GetTailAt(2)
 
-	EXPECT_SLIMLIST_NE(expected, tail)
+	EXPECT_SLIMLIST_EQ(expected, tail)
 }
 
 func Test_SlimList_getDouble(t *testing.T) {

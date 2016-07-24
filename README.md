@@ -3,12 +3,13 @@
 ### Author:  newnewtang 
 
 # note
-goslim comes from cslim. cslim is writted by Robert Martin and I am his fans.  
+goslim comes from cslim. 
+                  cslim is writted by `Robert Martin` and I am his fans.  
 
 ## Fixtures
 
 Fixtures in goslim are sets of functions and a data structure that binds them
-together.   See Main/DecisionTableExample.c
+together.   
 
 Note that the struct Division is used to hold data for all the functions in
 this fixture, rather like an object <grin>.
