@@ -1,0 +1,5 @@
+!define TEST_SYSTEM {slim} 
+!define COMMAND_PATTERN {%m}
+!define TEST_RUNNER {D:\MyStudio\go\goslim\bin\demo.exe}
+
+!contents -R2 -g -p -f -h
